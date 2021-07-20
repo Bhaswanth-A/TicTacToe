@@ -1,3 +1,8 @@
+# INTRODUCTION
+
+This is a Tic Tac Toe game, which was given as an assignment at the Automation and Robotics Club.
+The game is written in Python programming language, and makes use OOP.
+
 # GENERAL STRUCTURE 
 
 ## main.py file
